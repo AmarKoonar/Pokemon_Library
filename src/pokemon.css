@@ -1,0 +1,52 @@
+.pokemon{
+    z-index: 3;
+  }
+.App-link {
+  color: #61dafb;
+}
+.badge-bug {
+  background-color: #78c850;
+  color: white;
+}
+.badge-poison {
+  background-color: #730b9c;
+  color: white;
+}
+.badge-normal {
+  background-color: #a09f9f;
+  color: white;
+}
+.badge-fairy {
+  background-color: #f164bb;
+  color: white;
+}
+.badge-fighting {
+  background-color: #9e2828;
+  color: white;
+}
+.badge-psychic {
+  background-color: #a00872;
+  color: white;
+}
+.badge-ground {
+  background-color: #9b4716;
+  color: white;
+}
+.badge-rock {
+  background-color: #6d6a6a;
+  color: white;
+}
+.badge-ghost {
+  background-color: #870db8;
+  color: white;
+}
+.badge-steel {
+  background-color: #4e4e4e;
+  color: white;
+}
+.badge-dragon {
+  background-color: #107452;
+  color: white;
+}
+
+
